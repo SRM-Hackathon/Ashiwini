@@ -1,0 +1,126 @@
+﻿{
+ "selection2": "The Land of Lisp",
+ "selection2_url": "http://landoflisp.com/",
+ "post": [
+  {
+   "name": "The Land of Lisp",
+   "url": "http://landoflisp.com/"
+  },
+  {
+   "name": "I was in the MAPS MDMA for PTSD study. It freed me from a childhood of abuse",
+   "url": "https://www.psymposia.com/magazine/maps-mdma-ptsd-study-freed-childhood-abuse/"
+  },
+  {
+   "name": "The Supreme Court discussed my research on gerrymandering : some misconceptions",
+   "url": "https://www.washingtonpost.com/news/monkey-cage/wp/2017/10/06/the-supreme-court-discussed-my-research-on-gerrymandering-there-were-some-misconceptions/"
+  },
+  {
+   "name": "Lost Laughs in Leisure Suit Larry",
+   "url": "http://www.shamusyoung.com/twentysidedtale/?p=34307"
+  },
+  {
+   "name": "Show HN: Resume Worded – a searchable database of real proven resume lines",
+   "url": "https://resumeworded.com/"
+  },
+  {
+   "name": "Xcode 9.1 Improves Display of Fatal Errors",
+   "url": "https://swift.org/blog/xcode-9-1-improves-display-of-fatal-errors/"
+  },
+  {
+   "name": "Algorithms Have Already Gone Rogue",
+   "url": "https://www.wired.com/story/tim-oreilly-algorithms-have-already-gone-rogue/"
+  },
+  {
+   "name": "Smartphone dial-pad re-design",
+   "url": "https://uxdesign.cc/re-designing-the-smartphone-dial-pad-2df226ec620f"
+  },
+  {
+   "name": "Jepsen: Hazelcast 3.8.3",
+   "url": "https://jepsen.io/analyses/hazelcast-3-8-3"
+  },
+  {
+   "name": "The License Zero Manifesto",
+   "url": "https://writing.kemitchell.com/2017/09/12/The-License-Zero-Manifesto.html"
+  },
+  {
+   "name": "Compute Engine machine types with up to 96 vCPUs and 624GB of memory",
+   "url": "https://cloudplatform.googleblog.com/2017/10/new-compute-engine-machine-types.html"
+  },
+  {
+   "name": "Introducing NNVM Compiler: A New Open End-To-End Compiler for AI Frameworks",
+   "url": "https://aws.amazon.com/blogs/ai/introducing-nnvm-compiler-a-new-open-end-to-end-compiler-for-ai-frameworks/"
+  },
+  {
+   "name": "AIM will shut down after 20 years",
+   "url": "https://www.theverge.com/2017/10/6/16435690/aim-shutting-down-after-20-years-aol-instant-messenger"
+  },
+  {
+   "name": "The Fraternity Paradox: Lower GPA, Higher Incomes",
+   "url": "https://www.bloomberg.com/view/articles/2017-10-06/the-fraternity-paradox-lower-gpa-higher-incomes"
+  },
+  {
+   "name": "Programming Models for Distributed Computation",
+   "url": "https://github.com/heathermiller/dist-prog-book"
+  },
+  {
+   "name": "Ancient Viruses Are Buried in Your DNA",
+   "url": "https://www.nytimes.com/2017/10/04/science/ancient-viruses-dna-genome.html?action=click&pgtype=Homepage&version=Moth-Visible&moduleDetail=inside-nyt-region-5&module=inside-nyt-region&region=inside-nyt-region&WT.nav=inside-nyt-region&_r=0"
+  },
+  {
+   "name": "Danny Sullivan: I'm joining Google to serve as a public liaison for search",
+   "url": "https://dannysullivan.com/my-new-chapter-joining-google-5740"
+  },
+  {
+   "name": "One-Way Salesman Finds Fast Path Home",
+   "url": "https://www.quantamagazine.org/one-way-salesman-finds-fast-path-home-20171005/"
+  },
+  {
+   "name": "Initial experience creating cross-platform apps with Flutter and Dart",
+   "url": "http://www.harrischris.com/article/flutter-initial-experience"
+  },
+  {
+   "name": "Classification of the principal programming paradigms",
+   "url": "https://www.info.ucl.ac.be/~pvr/paradigms.html"
+  },
+  {
+   "name": "Show HN: NEXT Browser – A powerful Lisp-based browser",
+   "url": "https://news.ycombinator.com/item?id=15418719"
+  },
+  {
+   "name": "Communicate with Users, Build Something They Want",
+   "url": "http://blog.ycombinator.com/the-more-you-communicate-with-users-the-higher-chance-youll-build-something-they-want-ryan-hoover-of-product-hunt/"
+  },
+  {
+   "name": "How Ludwig II’s love for Wagner inspired the world’s greatest work of fan art",
+   "url": "https://www.laphamsquarterly.org/music/how-deep-your-love"
+  },
+  {
+   "name": "Show HN: Dffer – Get notified when a website changes",
+   "url": "https://www.dffer.com/"
+  },
+  {
+   "name": "I Wrote a Hit Song with Justin Bieber. Want to See My Royalties?",
+   "url": "https://www.digitalmusicnews.com/2017/10/03/hit-song-justin-bieber-royalties/"
+  },
+  {
+   "name": "OpenBSD 6.2",
+   "url": "https://www.openbsd.org/62.html"
+  },
+  {
+   "name": "How to defeat Ed25519 and EdDSA using faults",
+   "url": "https://research.kudelskisecurity.com/2017/10/04/defeating-eddsa-with-faults/"
+  },
+  {
+   "name": "Barbarian Virtues",
+   "url": "https://www.thenation.com/article/barbarian-virtues/"
+  },
+  {
+   "name": "Backblaze has ordered 100 petabytes of hard drives",
+   "url": "https://www.backblaze.com/blog/400-petabytes-cloud-storage/"
+  },
+  {
+   "name": "3-D quantum gas atomic clock offers new dimensions in measurement",
+   "url": "https://phys.org/news/2017-10-d-quantum-gas-atomic-clock.html"
+  }
+ ]
+}
